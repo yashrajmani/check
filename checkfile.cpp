@@ -25,6 +25,7 @@ int main(){
     //git log
     //git status
     //git diff
+    //git show 673279xkjhak98392893229389023ID
 
 
 
