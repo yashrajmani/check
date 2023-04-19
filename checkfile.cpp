@@ -9,10 +9,30 @@ int main(){
     {
         cout<<" "<<i<<" ";
     }
+<<<<<<< HEAD
     for(int i=5;i>=0;i--)
     {
         cout<<" "<<i<<" ";
     }
+=======
+
+    //git remote add origin https://github.com/yashrajmani/check.git
+
+    //git add filename.ext
+    //git commit -m "hello message"
+    //git push -u origin yash/branchname
+
+    //git log
+    //git status
+
+
+
+    //git branch yash/branchname
+    //git checkout yash/branchname
+    //git checkout master
+    //git merge yash/branchname 
+
+>>>>>>> yash/loop
 
    
 return 0;
