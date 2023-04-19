@@ -34,6 +34,12 @@ int main(){
 
 >>>>>>> yash/loop
 
-   
+   cout<<"Other feature in this branch"<<endl;
+
+   int a=20;
+   int b=10;
+   cout<<a+b;
+
+
 return 0;
 }
