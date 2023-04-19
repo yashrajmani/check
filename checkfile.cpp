@@ -24,6 +24,7 @@ int main(){
 
     //git log
     //git status
+    //git diff
 
 
 
