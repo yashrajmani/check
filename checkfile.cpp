@@ -9,6 +9,11 @@ int main(){
     {
         cout<<" "<<i<<" ";
     }
+    for(int i=5;i>=0;i--)
+    {
+        cout<<" "<<i<<" ";
+    }
+
    
 return 0;
 }
